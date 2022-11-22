@@ -3,13 +3,13 @@
     [
         {
             "Directory": "Tsurukawa",
-            "Table_Title": "鶴川駅 方面",
+            "Table_Title": "若葉台駅 方面",
             "Color": [151, 205, 243]
         },
 
         {
             "Directory": "Wakabadai",
-            "Table_Title": "若葉台駅 方面",
+            "Table_Title": "鶴川駅 方面",
             "Color": [194, 211, 148]
         }
     ],
